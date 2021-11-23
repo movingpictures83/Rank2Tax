@@ -1,0 +1,2 @@
+Prefix plugins/Rank2Tax/example/
+Plugin Rank2Tax inputfile tax_table.csv outputfile tax_table.rank2tax.csv
